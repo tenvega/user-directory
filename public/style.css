@@ -1,0 +1,71 @@
+* {
+  font-family: 'Roboto', sans-serif;
+}
+
+body {}
+
+.rows {
+  margin: auto;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.profiles {
+  border: 1px solid #cccccc;
+  margin: 10px;
+  max-height: 275px;
+  max-width: 250px;
+}
+
+.Users {
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+  max-height: 275px;
+  max-width: 250px;
+}
+
+.radius {
+  border: 1px solid #cccccc;
+  border-radius: 440px;
+}
+
+.name {
+  font-size: 50px;
+  color: #737373;
+
+}
+
+
+
+
+
+h1 {
+  margin-left: 20px;
+}
+
+h2 {
+  font-size: 20px;
+  text-align: center;
+  color: #80bfff;
+}
+
+a {
+  text-decoration: none;
+}
+
+h3 {
+  font-size: 15px;
+  text-align: center;
+}
+
+h4 {
+  font-size: 15px;
+  text-align: center;
+}
+
+h5{
+  margin-left: 20px;
+}
