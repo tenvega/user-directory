@@ -28,6 +28,7 @@ body {}
 
 .radius {
   float: left;
+  margin-right: 30px;
   padding: 40px;
   border: 1px solid #cccccc;
   border-radius: 440px;
